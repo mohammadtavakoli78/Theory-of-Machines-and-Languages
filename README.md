@@ -17,7 +17,6 @@ Project is created with:
 ## Setup
 To run this project, use below commands:
 ```
-$ pip install -r requirements.txt
 $ python3 q1.py
 $ python3 q2.py
 ```
