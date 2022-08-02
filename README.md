@@ -1,9 +1,9 @@
 # <p align="center"> Theory-of-Machines-and-Languages</p>
 
 # Table of Contents
-- [Introduction](https://github.com/mohammadtavakoli78/WareHouse/blob/master/README.md#introduction)
-- [Technologies](https://github.com/mohammadtavakoli78/WareHouse/blob/master/README.md#technologies)
-- [Setup](https://github.com/mohammadtavakoli78/WareHouse/blob/master/README.md#setup)
+- [Introduction](https://github.com/mohammadtavakoli78/Theory-of-Machines-and-Languages/edit/master/README.md#introduction)
+- [Technologies](https://github.com/mohammadtavakoli78/Theory-of-Machines-and-Languages/edit/master/README.md#technologies)
+- [Setup](https://github.com/mohammadtavakoli78/Theory-of-Machines-and-Languages/edit/master/README.md#setup)
 
 ## Introduction
 This project deal with diverse automatas like: DFA and NFA. 
